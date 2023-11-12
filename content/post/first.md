@@ -1,7 +1,7 @@
 +++
 title = '最初の'
 date = 2023-11-12T15:00:18+09:00
-draft = true
+draft = false
 +++
 
 暇だったのでGithub Pages+Hugoでサイト作ってみました。  
