@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+title = 'ﾌｺﾞｺﾞｺﾞｺﾞ'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = 'ふごご'
+Content = 'がんばります'
+
+[[params.socialIcons]]
+name = 'github'
+url = 'https://github.com/yayoyuyu'
