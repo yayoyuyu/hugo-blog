@@ -13,3 +13,6 @@ skkeletonは辞書の改行コードがLFじゃないと読んでくれないの
 ```
 git config --global core.autocrlf false
 ```
+
+追記
+globalで設定すると他のリポジトリに問題が起きる可能性があるのでlocalで設定した方が安全かも
