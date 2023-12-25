@@ -1,12 +1,19 @@
 baseURL = 'https://yayoyuyu.github.io/'
 languageCode = 'ja'
 title = 'ﾌｺﾞｺﾞｺﾞｺﾞ'
-theme = 'PaperMod'
+theme = 'stack'
 
-[params.homeInfoParams]
-Title = 'ふごご'
-Content = 'がんばります'
+[params.sidebar]
+subtitle = 'がんばります'
 
-[[params.socialIcons]]
-name = 'github'
+[params.sidebar.avatar]
+src = 'https://avatars.githubusercontent.com/u/112897090'
+local = false
+
+[[menu.social]]
+identifier = 'github'
+name = 'GitHub'
 url = 'https://github.com/yayoyuyu'
+
+[menu.social.params]
+icon = 'brand-github'
