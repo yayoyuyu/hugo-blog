@@ -1,7 +1,7 @@
 +++
 title = 'LinuxでVCClientを使ってみる'
 date = 2024-12-08T21:00:32+09:00
-draft = true
+draft = false
 +++
 
 ## VCClientとは
